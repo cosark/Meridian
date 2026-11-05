@@ -105,6 +105,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/snnabb/Meridian/master/insta
 
 [面板和站点使用不同域名：Nginx 配置、证书与操作步骤 →](docs/wiki/nginx-separate-domains.md)
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Meridian/)
+
 ---
 
 <div align="center">
